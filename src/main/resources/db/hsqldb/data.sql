@@ -48,7 +48,7 @@ INSERT INTO owners VALUES (8, 'Maria', 'Escobito', '345 Maple St.', 'Madison', '
 INSERT INTO owners VALUES (9, 'David', 'Schroeder', '2749 Blackhawk Trail', 'Madison', '6085559435', 'owner1');
 INSERT INTO owners VALUES (10, 'Carlos', 'Estaban', '2335 Independence La.', 'Waunakee', '6085555487', 'owner1');
 INSERT INTO owners VALUES (11, 'Ei', 'Raiden', '110 W. Immutable St.', 'Inazuma', '6085981023', 'ismbargar');
-INSERT INTO owners VALUES (12, 'Daniel', 'Arriaza', '2336 Independence La.', 'Waunakee', '6085555488', 'danarrarr');
+INSERT INTO owners VALUES (12, 'Daniel', 'Arriaza', '2336 Independence La.', 'Waunakee', '6085555488', 'owner1');
 
 
 INSERT INTO pets(id,name,birth_date,type_id,owner_id) VALUES (1, 'Leo', '2010-09-07', 1, 1);
